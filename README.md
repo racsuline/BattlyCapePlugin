@@ -23,7 +23,7 @@
 ## Instalación
 
 1. **Descarga el plugin**:
-   - Descarga el archivo `BattlyCapePlugin-1.0.2.jar` desde la [sección de Releases](https://github.com/<tu_usuario>/BattlyCapePlugin/releases).
+   - Descarga el archivo `BattlyCapePlugin-1.0.2.jar` desde la [sección de Releases](https://github.com/racsuline/BattlyCapePlugin/releases).
 
 2. **Coloca el archivo en tu servidor**:
    - Copia el archivo `.jar` a la carpeta `plugins/` de tu servidor Paper.
