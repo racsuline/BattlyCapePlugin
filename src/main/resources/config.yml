@@ -1,0 +1,25 @@
+# Comando para generar códigos promocionales (sin la barra /)
+command: capabattly
+
+# Permiso requerido para usar el comando
+permission: battlycape.use
+
+# Token de autorización para la API
+token: tu_token
+
+# URL base para generar códigos promocionales
+url: tu_url
+
+# URL base para canjear códigos (sin el código al final)
+claim-url: https://battlylauncher.com/es/claim?code=
+
+# Mensajes (soporta códigos de color con §)
+messages:
+  only-players: "§cEste comando solo puede ser ejecutado por jugadores."
+  no-permission: "§cNo tienes permiso para usar este comando."
+  verified: "§aEstás verificado como usuario de Battly Launcher."
+  not-verified: "§cNo eres usuario de Battly Launcher. Descarga el launcher e inténtalo de nuevo."
+  verify-error: "§cError al verificar la membresía: %error%"
+  code-generated: "§aCódigo promocional generado! %link%"
+  code-error: "§cError al generar el código promocional: %message%"
+  code-request-error: "§cError al generar el código: %error%"
