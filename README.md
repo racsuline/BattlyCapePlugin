@@ -14,4 +14,4 @@
 - **Integración con LuckPerms**: Gestiona fácilmente los permisos para diferentes grupos de jugadores.
 - **Registro de usos**: Almacena los UUIDs de los jugadores que han generado un código en `used.yml`.
 
-**PLUGIN ORIGINALMENTE HECHO PARA SU USO EN PLAY.RACSU.COM**
+# PLUGIN ORIGINALMENTE HECHO PARA SU USO EN PLAY.RACSU.COM
